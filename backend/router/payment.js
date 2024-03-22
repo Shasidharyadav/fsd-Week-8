@@ -23,7 +23,7 @@ const Event = require("../model/eventSchema")
 const uuid = require("uuid").v4;
 const stripe = require("stripe")(
 
-    "sk_test_51LKbQ9KAjzxspP2ZE33RmdtsLrCEdJ44F9H393TLI1ttnrdI2Y2ctNS2JUwa9jXb5jmg1c3oPeCestl8Y2ChXjPa00aKWE4VHU"
+    "Stripeapi key"
 );
 const app = express();
 
